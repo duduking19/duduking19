@@ -6,33 +6,13 @@
 
 </div>
 
-### 个人介绍 / About me :octocat:
-
-<details name="intro-language" open>
-<summary><kbd>🇨🇳 中文</kbd></summary>
-
-<br>
+### 个人介绍 :octocat:
 
 - 🎓 厦门大学在读学生。
 - 📫 联系邮箱：[1767515259@qq.com](mailto:1767515259@qq.com)
 - 🐍 使用 Python 开发自动化工具和开发者工具。
 - 🌐 使用 JavaScript 构建实用的 Web 应用。
 - 🛠️ 喜欢把日常遇到的问题转化为简单、实用的项目。
-
-</details>
-
-<details name="intro-language">
-<summary><kbd>🇬🇧 English</kbd></summary>
-
-<br>
-
-- 🎓 I'm currently a student at Xiamen University.
-- 📫 Email: [1767515259@qq.com](mailto:1767515259@qq.com)
-- 🐍 I build automation and developer tools with Python.
-- 🌐 I also work with JavaScript for useful web applications.
-- 🛠️ I enjoy turning everyday problems into small, practical projects.
-
-</details>
 
 ### 3D 贡献图 / Contribution graph 🌱
 
