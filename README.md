@@ -8,7 +8,7 @@
 
 ### 个人介绍 :octocat:
 
-- 🎓 厦门大学在读学生。
+- 🎓 [厦门大学](https://www.xmu.edu.cn)在读学生。
 - 📫 联系邮箱：[1767515259@qq.com](mailto:1767515259@qq.com)
 - 🐍 使用 Python 开发自动化工具和开发者工具。
 - 🌐 使用 JavaScript 构建实用的 Web 应用。
