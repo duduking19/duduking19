@@ -4,8 +4,6 @@
 
 # IronJ 👋
 
-Python · JavaScript · Practical Tools
-
 </div>
 
 ### 个人介绍 / About me :octocat:
