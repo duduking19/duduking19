@@ -11,7 +11,7 @@ Python · JavaScript · Practical Tools
 ### 个人介绍 / About me :octocat:
 
 <details name="intro-language" open>
-<summary><strong>🇨🇳 中文</strong></summary>
+<summary><kbd>🇨🇳 中文</kbd></summary>
 
 <br>
 
@@ -22,7 +22,7 @@ Python · JavaScript · Practical Tools
 </details>
 
 <details name="intro-language">
-<summary><strong>🇬🇧 English</strong></summary>
+<summary><kbd>🇬🇧 English</kbd></summary>
 
 <br>
 
