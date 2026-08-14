@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- GitHub 个人主页 README -->
+<!-- GitHub profile README -->
 
 # IronJ 👋
 
 </div>
 
-### 个人介绍 :octocat:
+### About Me :octocat:
 
-- 🎓 [厦门大学](https://www.xmu.edu.cn)在读学生。
-- 📫 联系邮箱：[1767515259@qq.com](mailto:1767515259@qq.com)
-- 🐍 使用 Python 开发自动化工具和开发者工具。
-- 🌐 使用 JavaScript 构建实用的 Web 应用。
-- 🛠️ 喜欢把日常遇到的问题转化为简单、实用的项目。
+- 🎓 I'm currently a student at [Xiamen University](https://www.xmu.edu.cn).
+- 📫 Email: [1767515259@qq.com](mailto:1767515259@qq.com)
+- 🐍 I build automation and developer tools with Python.
+- 🌐 I use JavaScript to create practical web applications.
+- 🛠️ I enjoy turning everyday problems into simple, useful projects.
 
-### 3D 贡献图 🌱
+### 3D Contribution Graph 🌱
 
-[![3D 贡献图](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/duduking19/duduking19/main/profile-3d-contrib/profile-night-rainbow.svg)
+[![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/duduking19/duduking19/main/profile-3d-contrib/profile-night-rainbow.svg)
