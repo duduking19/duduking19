@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- GitHub profile README -->
+<!-- GitHub 个人主页 README -->
 
 # IronJ 👋
 
@@ -14,6 +14,6 @@
 - 🌐 使用 JavaScript 构建实用的 Web 应用。
 - 🛠️ 喜欢把日常遇到的问题转化为简单、实用的项目。
 
-### 3D 贡献图 / Contribution graph 🌱
+### 3D 贡献图 🌱
 
-[![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/duduking19/duduking19/main/profile-3d-contrib/profile-night-rainbow.svg)
+[![3D 贡献图](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/duduking19/duduking19/main/profile-3d-contrib/profile-night-rainbow.svg)
