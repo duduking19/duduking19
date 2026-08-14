@@ -14,6 +14,7 @@
 <br>
 
 - 🎓 厦门大学在读学生。
+- 📫 联系邮箱：[1767515259@qq.com](mailto:1767515259@qq.com)
 - 🐍 使用 Python 开发自动化工具和开发者工具。
 - 🌐 使用 JavaScript 构建实用的 Web 应用。
 - 🛠️ 喜欢把日常遇到的问题转化为简单、实用的项目。
@@ -26,6 +27,7 @@
 <br>
 
 - 🎓 I'm currently a student at Xiamen University.
+- 📫 Email: [1767515259@qq.com](mailto:1767515259@qq.com)
 - 🐍 I build automation and developer tools with Python.
 - 🌐 I also work with JavaScript for useful web applications.
 - 🛠️ I enjoy turning everyday problems into small, practical projects.
