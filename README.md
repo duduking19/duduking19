@@ -32,12 +32,6 @@ Python · JavaScript · Practical Tools
 
 </details>
 
-### 精选项目 / Featured projects 🚀
-
-- [保研成绩计算助手 / Postgraduate Recommendation Score Assistant](https://github.com/duduking19/Postgraduate-Recommendation-Score-Assitant) — JavaScript 成绩计算工具 / JavaScript-based score assistant.
-- [XMUOJ Helper](https://github.com/duduking19/xmuoj_helper) — Python 辅助工具 / Python helper for XMUOJ.
-- [XMU Rollcall Bot Integrated](https://github.com/duduking19/XMU-Rollcall-Bot-Integrated) — 集成二维码扫描和 Telegram 通知的点名工具 / Roll-call CLI with QR scanning and Telegram notifications.
-
 ### GitHub 数据统计 / Metrics 📈
 
 ![GitHub Metrics](./github-metrics.svg)
