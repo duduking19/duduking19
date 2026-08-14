@@ -32,10 +32,6 @@ Python · JavaScript · Practical Tools
 
 </details>
 
-### GitHub 数据统计 / Metrics 📈
-
-![GitHub Metrics](./github-metrics.svg)
-
 ### 3D 贡献图 / Contribution graph 🌱
 
 [![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/duduking19/duduking19/main/profile-3d-contrib/profile-night-rainbow.svg)
