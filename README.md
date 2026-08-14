@@ -2,11 +2,31 @@
 
 <!-- GitHub profile README -->
 
-# Hi, I'm IronJ 👋
+# 你好，我是 IronJ 👋
 
-Building practical tools with Python and JavaScript.
+用 Python 和 JavaScript 构建实用工具。
+
+[中文](#中文) · [English](#english)
 
 </div>
+
+## 中文
+
+### 关于我 :octocat:
+
+- 🐍 使用 Python 开发自动化工具和开发者工具。
+- 🌐 使用 JavaScript 构建实用的 Web 应用。
+- 🛠️ 喜欢把日常遇到的问题转化为简单、实用的项目。
+
+### 精选项目 🚀
+
+- [保研成绩计算助手](https://github.com/duduking19/Postgraduate-Recommendation-Score-Assitant) — 使用 JavaScript 构建的成绩计算工具。
+- [XMUOJ Helper](https://github.com/duduking19/xmuoj_helper) — 使用 Python 开发的 XMUOJ 辅助工具。
+- [XMU Rollcall Bot Integrated](https://github.com/duduking19/XMU-Rollcall-Bot-Integrated) — 集成二维码扫描和 Telegram 通知的点名命令行工具。
+
+---
+
+## English
 
 ### About me :octocat:
 
@@ -20,10 +40,10 @@ Building practical tools with Python and JavaScript.
 - [XMUOJ Helper](https://github.com/duduking19/xmuoj_helper) — a Python helper for XMUOJ.
 - [XMU Rollcall Bot Integrated](https://github.com/duduking19/XMU-Rollcall-Bot-Integrated) — an integrated roll-call CLI with QR scanning and Telegram notifications.
 
-### Metrics 📈
+### GitHub 数据统计 / Metrics 📈
 
 ![GitHub Metrics](./github-metrics.svg)
 
-### Contribution graph 🌱
+### 3D 贡献图 / Contribution graph 🌱
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
